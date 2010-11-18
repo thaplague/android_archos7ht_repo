@@ -1,0 +1,13 @@
+To initialize get started with Android Froyo for the Archos 7 Home Tablet device, you'll need to get familiar with Git and Repo.
+
+http://source.android.com/download/using-repo
+
+To initialize your local repository using the trees,
+use a command like this:
+
+repo init -u git://github.com/thaplague/android_archos7ht_repo.git
+
+Then to sync up:
+
+repo sync
+
